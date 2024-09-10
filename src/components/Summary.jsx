@@ -7,6 +7,7 @@ const Summary = () => {
 
   return (
     <div className="flex flex-col sm:flex-row w-[600px] shadow-lg rounded-[20px]">
+        {/* div */}
         <div className="relative -top-1 sm:top-0 flex-1 bg-gradient-to-b from-violetBlue to-cobaltBlue py-6 px-12 rounded-[20px] text-white flex flex-col items-center">
             <span className="text-lightLavender text-xl">Your Result</span>
             <div className="w-36 h-36 bg-gradient-to-b from-violetBlue to-lightRoyalBlue rounded-full flex flex-col items-center justify-center my-6">
